@@ -18,7 +18,7 @@ jobs:
     - uses: actions/checkout@v3
     
     - name: Run test suite
-      run: cd /var/www/html/kk/_work && git pull origin master
+      run: cd /var/www/html/test && git pull origin master
    
       
 
