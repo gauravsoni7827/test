@@ -18,7 +18,7 @@ jobs:
     - uses: actions/checkout@v3
     
     - name: Run test suite
-      run: cd kk && ls
+      run: cd _work && ls
    
       
 
