@@ -17,6 +17,9 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     
+    - name: Run test suite
+      working-directory: /var/www/html/test1
+      run: git pull origin master
    
       
 
