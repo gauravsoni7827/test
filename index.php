@@ -1,7 +1,8 @@
 <?php 
 
-echo "Hello World from Github";
-echo "kalla billa   ";
-echo "kalla billa 11111111";
+echo "Hello World from Github<br>";
+echo "kalla billa  <br> ";
+echo "kalla billa 11111111<br>";
+echo "kalla billa 098765<br>";
 
 ?>
