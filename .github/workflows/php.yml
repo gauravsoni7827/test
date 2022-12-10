@@ -17,9 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     
-    - name: Pull code
-      working-directory: /var/www/html/test1
-      run: git pull origin master
+   
       
 
     
